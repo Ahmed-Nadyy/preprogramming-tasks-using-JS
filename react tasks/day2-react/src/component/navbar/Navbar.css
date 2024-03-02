@@ -1,0 +1,49 @@
+.bg{
+    background-color: sienna;
+}
+
+.w-25{
+    width: 25%;
+}
+
+.w-50{
+    width: 50%;
+}
+
+.w-75{
+    width: 75%;
+}
+
+.w-50{
+    width: 75%;
+}
+
+.flex{
+    display: flex;
+}
+
+.align-center{
+    align-items: center;
+}
+
+.align-end{
+    align-items:end;
+}
+
+.align-start{
+    align-items:start;
+}
+
+.justify-left{
+   justify-content: left;
+}
+
+.justify-right{
+    justify-content: right;
+ }
+
+ .justify-center{
+    justify-content: center;
+ }
+
+ 
